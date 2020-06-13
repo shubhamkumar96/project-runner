@@ -1,5 +1,5 @@
 # project-runner
-###  A command with 'nodemon' like functions, which tracks any changes done in the project directory and restarts the program if any changes detected.
+###  A command Line tool which tracks any changes done in the project directory and restarts the program if any changes detected.
 
 ## Built With
   *   JavaScript, Node.js
